@@ -1,0 +1,1 @@
+//do not forget to change the color under the stack navigator header
